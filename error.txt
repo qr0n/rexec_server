@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "main.py", line 29, in _eval
+    obj = await local_variables["func"]()
+  File "<string>", line 2, in func
+NameError: name 'hello' is not defined

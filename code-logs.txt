@@ -1,0 +1,5 @@
+2022-08-08 19:36:43.870863+00:00, Infinity Iron ran the code | print('hello')
+2022-08-08 19:41:04.088262+00:00, Infinity Iron ran the code | list
+2022-08-08 23:45:15.506171+00:00, Infinity Iron ran the code | list
+2022-08-08 23:46:43.876280+00:00, Infinity Iron ran the code | print("```<@578789460141932555>```")
+2022-08-08 23:46:59.229806+00:00, Infinity Iron ran the code | print("<@578789460141932555>```")
